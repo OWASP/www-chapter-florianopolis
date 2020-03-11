@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Florianopolis
-tags: encontros
+tags: example-tag
 region: 
 
 ---
