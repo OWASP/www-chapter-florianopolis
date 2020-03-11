@@ -3,7 +3,7 @@ title: Encontros
 layout:  null
 tab: true
 order: 1
-tags: encontros
+tags: example-tag
 ---
 
 ## Datas dos próximos encontros
