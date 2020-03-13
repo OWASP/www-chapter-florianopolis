@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Florianopolis
 tags: example-tag
-region: 
+region: South America
 
 ---
 
