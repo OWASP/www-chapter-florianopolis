@@ -8,7 +8,7 @@ region: South America
 ---
 
 ## Bem vindo!
-Seja muito bem vindo ao OWASP Chapter Florianópolis.
+Seja muito bem vindo ao OWASP Chapter Florianópolis. Estamos em construção! Vamos juntos fortalecer a comunidade de segurança da informação o/
 
 ## Participe
 O Open Web Application Security Project (OWASP) é uma fundação sem fins lucrativos que trabalha para melhorar a segurança digital. Todos os nossos projetos, ferramentas, documentos, fóruns e capítulos são gratuitos e abertos a qualquer pessoa interessada em melhorar a segurança, de alguma forma, o mundo da segurança cibernética.
