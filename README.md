@@ -1,3 +1,4 @@
+![Owasp Florianopolis](assets/images/owasp.png)
 # Chapter Florianopolis
 OWASP Foundation Web Respository
 
