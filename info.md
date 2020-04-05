@@ -1,7 +1,6 @@
 ### Florianopolis Information
-* Provide Group Information
 
 ### Social Links
-* [Meetup](#)
-
+* [Meetup](https://www.meetup.com/OWASP-Florianopolis-Chapter/)
+* [Telegram Group](https://t.me/joinchat/JL-2VRzn-IbjMxY2cNx3zA) 
 
