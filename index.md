@@ -3,6 +3,9 @@
 layout: col-sidebar
 title: OWASP Florianopolis
 region: South America
+meetup-group: OWASP-Florianopolis-Chapter
+country: Brazil
+postal-code: 
 
 ---
 ![Owasp Floripa](/assets/images/owasp-floripa-banner.png)
