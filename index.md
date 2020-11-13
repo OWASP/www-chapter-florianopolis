@@ -14,6 +14,18 @@ postal-code:
 Seja muito bem vindo ao OWASP Chapter Florianópolis. Estamos em construção! Vamos juntos fortalecer a comunidade de segurança da informação o/
 
 ## Próximos Eventos
+Dia 04/12/2020
+Temática:
+* iOS Hacking
+
+Dia 07/12/2020
+Temática:
+* Equador Ops - Ricardo Supo
+
+Dia 08/12/2020
+Temática:
+* A definir
+
 Dia 13/04/2020
 
 Temática:
