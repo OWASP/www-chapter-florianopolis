@@ -17,14 +17,19 @@ Seja muito bem vindo ao OWASP Chapter Florianópolis. Estamos em construção! V
 Dia 04/12/2020
 Temática:
 * iOS Hacking
+* Meetup: https://www.meetup.com/OWASP-Florianopolis-Chapter/events/274502782/
 
 Dia 07/12/2020
 Temática:
 * Equador Ops - Ricardo Supo
+* Meetup: https://www.meetup.com/OWASP-Florianopolis-Chapter/events/274529632/
 
 Dia 08/12/2020
 Temática:
 * A definir
+* Meetup: https://www.meetup.com/OWASP-Florianopolis-Chapter/events/274529709/
+
+Eventos passados de 2020:
 
 Dia 13/04/2020
 
