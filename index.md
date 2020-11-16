@@ -21,12 +21,12 @@ Temática:
 
 Dia 07/12/2020,
 Temática:
-* Equador Ops - Ricardo Supo
+* OWASP Top 10 API em português
 * [Meetup](https://www.meetup.com/OWASP-Florianopolis-Chapter/events/274529632/)
 
 Dia 08/12/2020,
 Temática:
-* A definir
+* Equador Ops
 * [Meetup](https://www.meetup.com/OWASP-Florianopolis-Chapter/events/274529709/)
 
 Eventos passados de 2020:
