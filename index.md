@@ -14,28 +14,25 @@ postal-code:
 Seja muito bem vindo ao OWASP Chapter Florianópolis. Estamos em construção! Vamos juntos fortalecer a comunidade de segurança da informação o/
 
 ## Próximos Eventos
-Dia 04/12/2020,
+Dia 13/08/2021,
 Temática:
-* iOS Hacking
-* [Meetup](https://www.meetup.com/OWASP-Florianopolis-Chapter/events/274502782/)
+* Introdução ao Bug Bounty (Introduction to Bug Bounty)
+* [Meetup](https://www.meetup.com/OWASP-Florianopolis-Chapter/events)
 
-Dia 07/12/2020,
+Dia 13/09/2021,
 Temática:
-* OWASP Top 10 API em português
-* [Meetup](https://www.meetup.com/OWASP-Florianopolis-Chapter/events/274529632/)
+* Atacando usuários: XSS (Attacking users: XSS)
+* [Meetup](https://www.meetup.com/OWASP-Florianopolis-Chapter/events)
 
-Dia 08/12/2020,
+Dia 13/10/2021,
 Temática:
-* Equador Ops
-* [Meetup](https://www.meetup.com/OWASP-Florianopolis-Chapter/events/274529709/)
+* Atacando componentes do Backend (Attacking back-end components)
+* [Meetup](https://www.meetup.com/OWASP-Florianopolis-Chapter/events)
 
-Eventos passados de 2020:
-
-Dia 13/04/2020,
+Dia 13/11/2021,
 Temática:
-* Disseminação do framework OWASP na nossa região.
-* Perspectivas da SI e futuro
-* Práticas e ações para educação em Cybersecurity
+* Atacando Data stores (Attacking data stores)
+* [Meetup](https://www.meetup.com/OWASP-Florianopolis-Chapter/events)
 
 ## Participe
 O Open Web Application Security Project (OWASP) é uma fundação sem fins lucrativos que trabalha para melhorar a segurança digital. Todos os nossos projetos, ferramentas, documentos, fóruns e capítulos são gratuitos e abertos a qualquer pessoa interessada em melhorar a segurança, de alguma forma, o mundo da segurança cibernética.
