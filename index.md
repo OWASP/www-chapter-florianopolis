@@ -60,10 +60,6 @@ As atividades e decisões do Capítulo são completamente horizontais e abertas 
 
 * Nosso grupo no Meetup: <https://www.meetup.com/pt-BR/OWASP-Chapter/>
 
-Próximo Encontro/Evento <!-- You should keep this section as it will populate your meetup events -->
----------------------
-{% include chapter_events.html group=page.meetup-group %}
-
 <!-- You should delete this comment
 
 Standard Chapter Page Template
