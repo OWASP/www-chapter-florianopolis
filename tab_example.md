@@ -1,11 +1,24 @@
 ---
-title: Example
-layout:  null
-tab: true
+title: Encontros
+displaytext: Encontros
+layout: col-sidebar
 order: 1
-tags: example-tag
+tab: true
+tags: chapter-floripa
+meetup-group: OWASP-Florianopolis-Chapter
+country: Brazil
+region: South America
+postal-code: 
 ---
 
-## Example
+# Registro dos Encontros
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+Esta página é utilizada para publicar toda informação compartilhada através dos encontros realizados de forma remota ou local. 
+
+Para participar dos encontros, basta inscrever-se no nosso grupo na plataforma Meetup:
+
+* Grupo OWASP Floripa: <https://www.meetup.com/pt-BR/OWASP-Florianopolis-Chapter/>
+
+E as gravações dos encontros são publicadas no nosso canal do YouTube, aproveite pra se inscrever e ativar as notificações:
+
+* Canal OWASP Chapter: <https://www.youtube.com/channel/>
