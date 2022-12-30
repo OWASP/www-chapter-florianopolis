@@ -5,6 +5,6 @@
 
 
 ### Social Links
-* [Meetup](https://www.meetup.com/OWASP-Florianopolis-Chapter/)
+* [Meetup](https://www.meetup.com/owasp-florianopolis-meetup-group/)
 * [Telegram Group](https://t.me/joinchat/JL-2VRzn-IbjMxY2cNx3zA) 
 
