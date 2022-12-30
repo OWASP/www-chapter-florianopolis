@@ -5,7 +5,7 @@ title: OWASP Florianopolis
 tags: chapter-floripa
 region: South America
 country: Brazil
-meetup-group: OWASP-Florianopolis
+meetup-group: owasp-florianopolis-meetup-group
 
 ---
 
