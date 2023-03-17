@@ -58,4 +58,4 @@ As atividades e decisões do Capítulo são completamente horizontais e abertas 
 
 <!-- {% include chapter_events.html group=page.meetup-group %} -->
 
-* Nosso grupo no Meetup: <https://www.meetup.com/pt-BR/OWASP-Florianopolis-Chapter/>
+* Nosso grupo no Meetup: <[https://www.meetup.com/pt-BR/OWASP-Florianopolis-Chapter](https://www.meetup.com/pt-BR/owasp-florianopolis-meetup-group)/>
