@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Leandro Venâncio](mailto:leandro.venancio@owasp.org)
+* [Henrique Ribeiro](mailto:henrique.ribeiro@owasp.org)
