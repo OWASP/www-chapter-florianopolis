@@ -9,6 +9,14 @@ meetup-group:
 
 ---
 
+## Sobre a OWASP
+
+A OWASP® – Open Worldwide Application Security Project é uma organização global, sem fins lucrativos, focada em melhorar a segurança de software no mundo todo. Sua missão é tornar a segurança de aplicações visível, para que pessoas e organizações possam tomar decisões informadas sobre riscos reais.
+
+A fundação é vendor-neutral: não promove produtos ou fabricantes específicos. Em vez disso, produz conteúdo aberto – como o OWASP Top 10, guias, ferramentas, frameworks e metodologias – disponível gratuitamente para a comunidade.
+
+Os capítulos locais da OWASP existem para levar esse conhecimento para perto das pessoas, promovendo encontros, palestras, treinamentos, grupos de estudo e colaboração entre profissionais, estudantes, pesquisadores e empresas.
+
 ## Sobre Florianópolis
 
 Florianópolis, capital de Santa Catarina, é conhecida como a Ilha da Magia, reunindo praias, lagoas, morros e uma cultura marcada pela influência açoriana. Além do apelo turístico, a cidade se destaca pela qualidade de vida, segurança relativa e forte vocação empreendedora.
@@ -23,50 +31,50 @@ O Capítulo OWASP Florianópolis nasce com o propósito de ser o ponto de encont
 
 Nossa missão local é:
 
-aproximar desenvolvedores, profissionais de segurança, pesquisadores, estudantes e empresas;
+- aproximar desenvolvedores, profissionais de segurança, pesquisadores, estudantes e empresas;
 
-disseminar boas práticas de segurança de aplicações web, mobile, API, cloud e DevSecOps;
+- disseminar boas práticas de segurança de aplicações web, mobile, API, cloud e DevSecOps;
 
-apoiar o ecossistema de inovação de Floripa na construção de softwares mais seguros por padrão.
+- apoiar o ecossistema de inovação de Floripa na construção de softwares mais seguros por padrão.
 
 Como todo capítulo OWASP, somos uma iniciativa aberta, voluntária e sem fins lucrativos. Nossos eventos são gratuitos e orientados por conteúdo técnico de qualidade, sempre em alinhamento às políticas e diretrizes globais da OWASP.
 
 
 ## Nossos valores
 
-Comunidade em primeiro lugar
+### Comunidade em primeiro lugar
 Construímos um espaço acolhedor e colaborativo, onde qualquer pessoa interessada em segurança de aplicações é bem-vinda – do iniciante ao especialista.
 
-Conhecimento aberto e acessível
+### Conhecimento aberto e acessível
 Priorizamos conteúdo aberto, prático e reutilizável, alinhado à filosofia da OWASP de materiais livres e públicos.
 
-Neutralidade e independência
+### Neutralidade e independência
 Mantemos uma postura vendor-neutral, focada em educação, boas práticas e troca de experiências, e não em propaganda de ferramentas ou serviços.
 
-Ética e responsabilidade
+### Ética e responsabilidade
 Incentivamos o uso responsável do conhecimento em segurança, respeitando leis, privacidade, pessoas e organizações.
 
-Diversidade e inclusão
+### Diversidade e inclusão
 Valorizamos pluralidade de gênero, raça, origem e experiência. Queremos que o capítulo reflita a diversidade de Florianópolis.
 
-Conexão com o ecossistema local
+### Conexão com o ecossistema local
 Buscamos parceria com universidades, comunidades técnicas, meetups, empresas e órgãos públicos, para gerar impacto real na região.
 
 ## Por que participar da OWASP Florianópolis
 
-Aprendizado contínuo
+### Aprendizado contínuo
 Meetups, palestras, painéis e workshops sobre temas como OWASP Top 10, threat modeling, DevSecOps, APIs, cloud security, testes de segurança e muito mais.
 
-Networking de alto nível
+### Networking de alto nível
 Contato direto com profissionais da região, líderes técnicos, pesquisadores, empreendedores e estudantes que respiram tecnologia e segurança.
 
-Oportunidades de carreira
+### Oportunidades de carreira
 Participar ativamente pode abrir portas para oportunidades de emprego, projetos, palestras em eventos maiores e colaboração em projetos OWASP.
 
-Contribuição para a comunidade
+### Contribuição para a comunidade
 Ao compartilhar conhecimento e fortalecer a cultura de segurança, você ajuda empresas locais, startups e órgãos públicos a elevarem seus padrões de proteção.
 
-Visibilidade e protagonismo
+### Visibilidade e protagonismo
 Quem apresenta, organiza ou apoia eventos do capítulo ganha visibilidade no ecossistema de tecnologia de Florianópolis e na própria rede global da OWASP.
 
 
@@ -74,33 +82,32 @@ Quem apresenta, organiza ou apoia eventos do capítulo ganha visibilidade no eco
 
 Não é necessário ser membro da OWASP para participar dos encontros do capítulo – todos são bem-vindos. 
 OWASP
-+1
 
 Você pode se envolver de várias formas:
 
-Participando dos eventos
+#### 1. Participando dos eventos
 
-Acompanhe a agenda oficial da OWASP no site do capítulo e em nossas redes sociais.
+- Acompanhe a agenda oficial da OWASP no site do capítulo e em nossas redes sociais.
 
-Inscreva-se nos meetups, palestras, trilhas em conferências locais e grupos de estudo.
+- Inscreva-se nos meetups, palestras, trilhas em conferências locais e grupos de estudo.
 
-Contribuindo como palestrante
+#### 2. Contribuindo como palestrante
 
-Proponha talks, lightning talks, painéis ou demos práticas.
+- Proponha talks, lightning talks, painéis ou demos práticas.
 
-Compartilhe cases reais, lições aprendidas, pesquisas ou ferramentas open source.
+- Compartilhe cases reais, lições aprendidas, pesquisas ou ferramentas open source.
 
-Ajudando na organização
+#### 3. Ajudando na organização
 
-Voluntarie-se para apoiar organização de eventos, comunicação, mídias sociais, site, patrocínios e relacionamento com parceiros.
+- Voluntarie-se para apoiar organização de eventos, comunicação, mídias sociais, site, patrocínios e relacionamento com parceiros.
 
-Conectando sua empresa ou instituição
+#### 4. Conectando sua empresa ou instituição
 
-Empresas, universidades e comunidades podem apoiar com espaço, divulgação, coffee break, patrocínio ou participação em mesas-redondas.
+- Empresas, universidades e comunidades podem apoiar com espaço, divulgação, coffee break, patrocínio ou participação em mesas-redondas.
 
-Tornando-se membro OWASP
+#### 5. Tornando-se membro OWASP
 
-Embora não seja obrigatório para participar do capítulo, ser membro oficial da OWASP Foundation ajuda a sustentar os projetos globais e reforça seu compromisso com a comunidade.
+- Embora não seja obrigatório para participar do capítulo, ser membro oficial da OWASP Foundation ajuda a sustentar os projetos globais e reforça seu compromisso com a comunidade.
 
 ## Participation
 
