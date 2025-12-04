@@ -43,39 +43,39 @@ Como todo capítulo OWASP, somos uma iniciativa aberta, voluntária e sem fins l
 ## Nossos valores
 
 ### Comunidade em primeiro lugar
-Construímos um espaço acolhedor e colaborativo, onde qualquer pessoa interessada em segurança de aplicações é bem-vinda – do iniciante ao especialista.
+- Construímos um espaço acolhedor e colaborativo, onde qualquer pessoa interessada em segurança de aplicações é bem-vinda – do iniciante ao especialista.
 
 ### Conhecimento aberto e acessível
-Priorizamos conteúdo aberto, prático e reutilizável, alinhado à filosofia da OWASP de materiais livres e públicos.
+- Priorizamos conteúdo aberto, prático e reutilizável, alinhado à filosofia da OWASP de materiais livres e públicos.
 
 ### Neutralidade e independência
-Mantemos uma postura vendor-neutral, focada em educação, boas práticas e troca de experiências, e não em propaganda de ferramentas ou serviços.
+- Mantemos uma postura vendor-neutral, focada em educação, boas práticas e troca de experiências, e não em propaganda de ferramentas ou serviços.
 
 ### Ética e responsabilidade
-Incentivamos o uso responsável do conhecimento em segurança, respeitando leis, privacidade, pessoas e organizações.
+- Incentivamos o uso responsável do conhecimento em segurança, respeitando leis, privacidade, pessoas e organizações.
 
 ### Diversidade e inclusão
-Valorizamos pluralidade de gênero, raça, origem e experiência. Queremos que o capítulo reflita a diversidade de Florianópolis.
+- Valorizamos pluralidade de gênero, raça, origem e experiência. Queremos que o capítulo reflita a diversidade de Florianópolis.
 
 ### Conexão com o ecossistema local
-Buscamos parceria com universidades, comunidades técnicas, meetups, empresas e órgãos públicos, para gerar impacto real na região.
+- Buscamos parceria com universidades, comunidades técnicas, meetups, empresas e órgãos públicos, para gerar impacto real na região.
 
 ## Por que participar da OWASP Florianópolis
 
 ### Aprendizado contínuo
-Meetups, palestras, painéis e workshops sobre temas como OWASP Top 10, threat modeling, DevSecOps, APIs, cloud security, testes de segurança e muito mais.
+- Meetups, palestras, painéis e workshops sobre temas como OWASP Top 10, threat modeling, DevSecOps, APIs, cloud security, testes de segurança e muito mais.
 
 ### Networking de alto nível
-Contato direto com profissionais da região, líderes técnicos, pesquisadores, empreendedores e estudantes que respiram tecnologia e segurança.
+- Contato direto com profissionais da região, líderes técnicos, pesquisadores, empreendedores e estudantes que respiram tecnologia e segurança.
 
 ### Oportunidades de carreira
-Participar ativamente pode abrir portas para oportunidades de emprego, projetos, palestras em eventos maiores e colaboração em projetos OWASP.
+- Participar ativamente pode abrir portas para oportunidades de emprego, projetos, palestras em eventos maiores e colaboração em projetos OWASP.
 
 ### Contribuição para a comunidade
-Ao compartilhar conhecimento e fortalecer a cultura de segurança, você ajuda empresas locais, startups e órgãos públicos a elevarem seus padrões de proteção.
+- Ao compartilhar conhecimento e fortalecer a cultura de segurança, você ajuda empresas locais, startups e órgãos públicos a elevarem seus padrões de proteção.
 
 ### Visibilidade e protagonismo
-Quem apresenta, organiza ou apoia eventos do capítulo ganha visibilidade no ecossistema de tecnologia de Florianópolis e na própria rede global da OWASP.
+- Quem apresenta, organiza ou apoia eventos do capítulo ganha visibilidade no ecossistema de tecnologia de Florianópolis e na própria rede global da OWASP.
 
 
 ## Como participar
